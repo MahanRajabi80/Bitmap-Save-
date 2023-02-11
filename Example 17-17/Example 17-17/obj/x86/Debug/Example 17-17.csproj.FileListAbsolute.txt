@@ -1,0 +1,17 @@
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\bin\Debug\Example 17-17.exe
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\bin\Debug\Example 17-17.pdb
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\Example_17_17.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\Example_17_17.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\Example 17-17.exe
+C:\Users\M-H Computer\Desktop\Example 17-17\Example 17-17\obj\x86\Debug\Example 17-17.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\bin\Debug\Example 17-17.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\bin\Debug\Example 17-17.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\obj\x86\Debug\Example_17_17.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\obj\x86\Debug\Example_17_17.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\obj\x86\Debug\Example 17-17.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\obj\x86\Debug\Example 17-17.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\obj\x86\Debug\Example 17-17.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-17\Example 17-17\obj\x86\Debug\Example 17-17.pdb
